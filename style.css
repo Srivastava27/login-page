@@ -1,0 +1,88 @@
+*{
+    /* background-color: antiquewhite; */
+    /* margin-left: 10%; */
+}
+
+.login1{
+    /* border: 2px solid black; */
+    padding: 30px;
+    /* width: 50%; */
+}
+.login2{
+    /* border: 2px solid black; */
+    padding: 20px;
+    /* width: 50%; */
+}
+.login3{
+    /* border: 2px solid black; */
+    padding: 20px;
+    /* width: 50%; */
+    background-color: rgb(95, 156, 156);
+}
+h1{
+    margin-left: 45%;
+}
+.btn1{
+    margin-left: 20%;
+    width: 60%;
+    /* height: 50px; */
+    padding: 10px;
+    background-color: rgb(95, 156, 156);
+    color: aliceblue;
+}
+.btn2{
+    margin-left: 20%;
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(95, 156, 156);
+    color: aliceblue;
+}
+.input1{
+    margin-left: 20%;
+    width: 60%;
+    padding: 10px;
+}
+.input2{
+    margin-left: 20%;
+    width: 60%;
+    padding: 10px;
+}
+.input3{
+    margin-left: 20%;
+}
+.last{
+    margin-left: 20%;
+    width: 30%;
+    padding: 10px;
+}
+.all{
+    border: 2px solid black;
+    width: 50%;
+    margin-left: 25%;
+    /* box-shadow: 20%; */
+
+}
+.btn4{
+    background-color: antiquewhite;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 20%;
+    height: 40px;
+    margin-left: 70%;
+}
+.btn3{
+    background-color: antiquewhite;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 20%;
+    height: 40px;
+}
+.click{
+    text-decoration: none;
+    color: blue;
+}
+.btn3{
+    margin-left: 70%;
+}
